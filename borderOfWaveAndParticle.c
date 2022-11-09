@@ -1,3 +1,8 @@
+/*
+An updated version of "projectilePattern.c"
+Now can have multiple target points and rotation is based on linear algebra.
+*/
+
 #include <math.h>
 #include <stdbool.h>
 #include "raylib.h"
