@@ -1,4 +1,6 @@
 /*
+Border of Wave and Particle - November 8-9, 2022
+
 An updated version of "projectilePattern.c"
 Now can have multiple target points and rotation is based on linear algebra.
 */
